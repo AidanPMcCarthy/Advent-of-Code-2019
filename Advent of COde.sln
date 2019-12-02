@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Advent of COde", "Advent of COde\Advent of COde.pyproj", "{0CB02890-AFE5-4A40-8E7B-5D764289C066}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Advent of CodeDay1Number2", "Advent of CodeDay1Number2\Advent of CodeDay1Number2.pyproj", "{9267E253-E86B-4B21-8BB2-D65DB71EF2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB02890-AFE5-4A40-8E7B-5D764289C066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB02890-AFE5-4A40-8E7B-5D764289C066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9267E253-E86B-4B21-8BB2-D65DB71EF2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9267E253-E86B-4B21-8BB2-D65DB71EF2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2ED3EE-15A3-4105-BDCD-6AF7E12EC568}
+	EndGlobalSection
+EndGlobal
